@@ -11,6 +11,10 @@ Project Overview
 
 Employee attrition is a critical challenge for many organizations. By analyzing workforce patterns and identifying areas of concern, companies can take proactive steps to retain talent. In this project, I built an interactive dashboard that highlights how different variables(degrees, job satisfaction, gender, department, education field, and etc.) are related to the likelihood of employees leaving the company.
 
+KPI Selection
+
+In designing the KPIs for this dashboard, I focused on identifying the metrics that provide the most immediate and meaningful understanding of employee turnover. The primary objective was to highlight indicators that HR teams typically monitor when assessing organizational health and retention performance. I selected KPIs such as Total Employees, Total Attrition, Attrition Rate, and Active Employees because they offer a clear summary of workforce dynamics at a glance. These KPIs were chosen based on their relevance to HR decision-making, their ability to reflect overall organizational stability, and their usefulness in identifying early warning signs of employee dissatisfaction or risk of turnover. Additionally, they serve as foundational metrics that contextualize deeper analyses presented in the subsequent visualizations, ensuring a coherent and data-driven narrative throughout the report.
+
 Key Insights
 
 The Power BI report illustrates:
